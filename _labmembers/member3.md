@@ -1,6 +1,6 @@
 ---
-title: Darcy E. Wagner
-role: Group Leader
+title: A member
+role: some role
 subtitle: some subtitle.. y
 ---
 This Space here will be used to write a small bio on the person.
