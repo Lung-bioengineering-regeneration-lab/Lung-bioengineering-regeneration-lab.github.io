@@ -28,9 +28,6 @@ var getPubmed = function(url) { //passed url
     });
 };
 
-//const input = document.querySelector('input');
-const log = document.getElementById('demo');
-
 // input.addEventListener('input', updateValue);
 window.onload = updateValue;
 
