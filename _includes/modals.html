@@ -20,6 +20,7 @@
                   <i class="fas fa-times"></i>
                   {{ site.data.sitetext.keynote.closebutton | default: "Close Description" }}</button>
                 <p class="publ" id="pub{{ forloop.index }}"></p>
+                
                 <script src="assets/js/publications.js">
                 updateMemValue("{{ member.pubmed }}","pub{{ forloop.index }}")
                 </script>
