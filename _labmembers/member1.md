@@ -5,6 +5,8 @@ subtitle:
 pubmed: Darcy Wagner OR Darcy E Wagner
 image: "assets/img/members/wagner.jpg"
 social:
+  - url: https://orcid.org/0000-0003-3794-1309
+    icon: fab fa-orcid
   - url: https://twitter.com/DWagnerLab
     icon: fab fa-twitter
   - url: https://linkedin.com/
