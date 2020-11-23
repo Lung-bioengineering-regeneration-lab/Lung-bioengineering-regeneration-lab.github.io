@@ -58,6 +58,30 @@ getPubmed(idURL).then(function(data) {
 
 }
 
+function updateMemValue(sterm, pID) {
+    searchterm = '&term='+sterm+'[Author]';
+    idURL = pubmedSearchAPI + database + returnmode + returnmax + searchterm
+    console.log(idURL);
+  
+  getPubmed(idURL).then(function(data) {
+      var idList = data.esearchresult.idlist;
+      idStringList = idList.toString(); //converts the idlist to a string to be appended to the search url
+      idStringList = '&id=' + idStringList;
+      summaryURL = pubmedSummaryAPI + database + returnmode + returntype + idStringList;
+      getPubmed(summaryURL).then(function(summary) {
+          publications = formatReferences(summary);
+          console.log(publications);	
+          document.getElementById(pID).innerHTML = publications;
+          
+      }, function(status) {
+          publications = 'Something went wrong getting the ids.';
+      });
+  }, function(status) {
+      publications = 'Something went wrong getting the ids.';
+  });
+  
+  }
+
 function formatReferences(summary) {
     var publicationList = '';
     for (refs in summary.result) {
