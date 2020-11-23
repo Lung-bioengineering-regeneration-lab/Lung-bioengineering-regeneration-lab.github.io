@@ -1,0 +1,102 @@
+header:
+    title: Lung Bioengineering and Regeneration Lab
+    text: 
+    button: Who we are!
+    buttonlink: "#about" # "#{section}" or "URL/page link"
+    
+about:
+    title: "LBR"
+    text: "---- WHO we are ---- ask for text from DEW.."
+    section: about
+
+labmembers:
+    title: "LBR members"
+    text: ""
+    subtext: 
+    section: labmembers
+    speakers:
+      - name: "Molly Hammell"
+        role: "Cold Spring Harbor Laboratory"
+        image: "assets/img/members/hammell.jpg"
+        social:
+          - url: https://twitter.com/mollyhammell
+            icon: fab fa-twitter
+          - url: https://linkedin.com/in/molly-gale-hammell-64730135
+            icon: fab fa-linkedin-in
+
+      - name: "Fabian Theis"
+        role: "Helmholtz Zentrum München"
+        image: "assets/img/members/theis.jpg"
+        social:
+          - url: https://twitter.com/fabian_theis
+            icon: fab fa-twitter
+          - url: https://linkedin.com/in/fabian-theis-4b4b10173
+            icon: fab fa-linkedin-in
+      - name: "Mikkel Schierup"
+        role: "Aarhus University"
+        image: assets/img/members/schierup.png
+        social:
+          - url: https://twitter.com/mikkelschierup
+            icon: fab fa-twitter
+          - url: https://linkedin.com/in/mikkel-heide-schierup-09aa3a6b
+            icon: fab fa-linkedin-in
+      - name: "Oliver Stegle"
+        role: "German Cancer Research Center"
+        image: assets/img/members/stegle.jpg
+        social:
+          - url: https://twitter.com/statgenomics
+            icon: fab fa-twitter
+          - url: https://linkedin.com/in/oliver-stegle-4b128818
+            icon: fab fa-linkedin-in
+
+publications:
+    title: "Published by LBR"
+    text: "Publications list with LBR affiliation retrieved from Pubmed!"
+    section: publications
+
+social:
+    title: "LBR on Social media"
+    text: ""
+    section: social
+
+sponsors:
+    section: sponsors
+    max-height: 50px
+    horizontal-scrolling: "yes" #"yes/no"
+    list:
+      - title: "NBIS"
+        url: https://nbis.se
+        logo: assets/img/sponsors/nbis.svg
+      - title: "GENECO"
+        url: https://www.biology.lu.se/education/phd-studies/geneco-graduate-research-school-genomic-ecology/about-geneco
+        logo: assets/img/sponsors/lu.png
+      - title: "AI Lund"
+        url: http://ai.lu.se/
+        logo: assets/img/sponsors/lu.png
+      - title: "SAGA Diagnostics"
+        url: https://sagadiagnostics.com/
+        logo: assets/img/sponsors/saga.png
+      - title: "COMPUTE"
+        url: http://cbbp.thep.lu.se/compute/index.php
+        logo: assets/img/sponsors/compute.png
+          
+contact:
+    title: "Contact Us"
+    text: "If you need any further information please do not hesitate to contact us!"
+    section: contact
+    
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"  
+      #- url: https://facebook.com
+      #  icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/sbw-lund
+      #- url: https://instagram.com
+      #  icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}

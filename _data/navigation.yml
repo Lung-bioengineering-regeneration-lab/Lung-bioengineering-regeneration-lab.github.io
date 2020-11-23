@@ -1,0 +1,18 @@
+nav:
+  - title: "About"
+    section: about
+
+  - title: "Members"
+    section: labmembers
+    
+  - title: "Publications"
+    section: publications
+
+  - title: Social media
+    section: social
+
+  - title: "Sponsors"
+    section: sponsors
+
+  - title: "Contact"
+    section: contact
