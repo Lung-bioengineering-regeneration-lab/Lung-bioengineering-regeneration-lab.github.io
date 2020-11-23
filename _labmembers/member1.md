@@ -1,13 +1,9 @@
 ---
-layout: page
-title: "LBR Member"
-pID: "memb1"
 name: "Darcy E. Wagner"
 role: "Group leader"
 subtitle:
 pubmed: Darcy Wagner OR Darcy E Wagner
 image: "assets/img/members/wagner.jpg"
-
 social:
   - url: https://twitter.com/DWagnerLab
     icon: fab fa-twitter
