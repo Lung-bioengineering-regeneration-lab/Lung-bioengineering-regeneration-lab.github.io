@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "LBR Member"
-pID: "memb1"
 name: "Darcy E. Wagner"
 role: "Group leader"
 subtitle:
@@ -17,6 +16,11 @@ social:
     icon: fas fa-user-circle
 ---
 This Space here will be used to write a small bio on the person.
+<h4>Publications:</h4>
+<p class="publ1" id="pub"></p>
+<script src="assets/js/member_publications.js"></script>
+<script>updateMemValue("{{ pubmed }}","pub")</script>
+
 
 {:.list-inline}
 - list item 1
