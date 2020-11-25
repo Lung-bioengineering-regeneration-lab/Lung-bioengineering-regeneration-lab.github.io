@@ -19,8 +19,8 @@ title      : Lung Bioengineering and Regeneration Lab
 email      : lbr-lab@med.lu.se #this is also the email contact forms will go to
 description: "Laboratory Website!"
 author     : Hani N. Alsafadi
-#logo:     #optional, defaults to site title
-  #path: #
+logo:     
+  path: "assests/img/logo/LBR_logo_header_white.png"
   #height: 60 #height in px, defaults to 52px
 
 analytics:
