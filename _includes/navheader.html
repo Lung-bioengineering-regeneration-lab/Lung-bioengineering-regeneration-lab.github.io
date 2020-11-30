@@ -36,16 +36,30 @@
   <header class="masthead">
     <div class="container">
       <div class="intro-text">
-     <img src="assets\img\LBR_logo.png" alt="SBW2021", style="width: 20%;">
+     <img src="assets\img\logo\LBR_logo_white.png" alt="LBR", style="width: 30%; padding-bottom: 2em;">
+     <div class="col-md">
+      <ul class="list-inline social-buttons">
+  {% for link in site.data.sitetext.footer.social  %}
+        <li class="list-inline-item">
+    {% if link.url %}
+          <a href="{{ link.url }}">
+            {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+          </a>
+    {% endif %}
+        </li>
+  {% endfor %}
+      </ul>
+    </div>
+<!--
     {%- if site.data.sitetext.header.text -%}
         <div class="intro-lead-in">{{ site.data.sitetext.header.text | markdownify }}</div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext.header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
-	  {%- endif -%}
+	  {%- endif -%} 
     {%- if site.data.sitetext.header.button2 -%}
         <a class="btn btn-primary btn-xl text-uppercase" href="{{ site.data.sitetext.header.buttonlink2 }}">{{ site.data.sitetext.header.button2 }}</a>
-	  {%- endif -%}
+	  {%- endif -%}-->
       </div>
     </div>
   </header>

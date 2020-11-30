@@ -4,23 +4,50 @@
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
+          
           <div class="lr">
             <div class="rl"></div>
           </div>
+        
         </div>
         <div class="container">
           <div class="row">
-            <div class="col-lg-8 mx-auto">
-              <div class="modal-body">
-                <!-- member Details Go Here -->
-                <h3 class="text-uppercase"><img class="mx-auto rounded-circle" src="{{ member.image }}" style="max-width: 75px; max-height: 75px;" alt="">  {{ member.name }}</h3>
-                <p class="item-intro text-muted">{{ member.subtitle }}</p>
-				        <p>{{ member.content }}</p>	
-                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                  <i class="fas fa-times"></i>
-                  {{ site.data.sitetext.keynote.closebutton | default: "Close Description" }}</button>
-              </div>
+            
+            <div class="col-lg-3 mx-auto leftside">
+              <img class="mx-auto rounded-circle" src="{{ member.image }}" style="max-width: 150px; max-height: 150px;" alt="">
+              <h4 class="text-uppercase">  {{ member.name }}</h4>
+              <ul class="list-inline social-buttons">
+                {% for network in member.social %}
+                {%- if network.url -%}  
+                <li class="list-inline-item">
+                  <a href="{{ network.url }}">
+                    <i class="{{ network.icon }}"></i>
+                  </a>
+                  </li>
+                {%- endif -%}
+                {% endfor %}
+                </ul>
+                <ul class="list-inline">
+                  <li><b> Role: </b>{{ member.role}}</li>
+                  {% for item in member.info %}
+                  {%- if item.info_term -%} 
+                  <li> <b> {{ item.info_term }}: </b> {{ item.value }}</li>
+                  {%- endif -%}
+                  {% endfor %}
+
+                </ul>
             </div>
+            <div class="col-lg-9 mx-auto">
+                <div class="modal-body">
+                  <!-- member Details Go Here -->
+                  <p class="item-intro text-muted">{{ member.subtitle }}</p>
+                  <p>{{ member.content }}</p>	
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fas fa-times"></i>
+                    {{ site.data.sitetext.keynote.closebutton | default: "Close Description" }}</button>
+            </div>
+          </div>
+            
           </div>
         </div>
       </div>

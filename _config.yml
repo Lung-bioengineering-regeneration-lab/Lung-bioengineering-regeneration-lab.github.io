@@ -21,12 +21,14 @@ description: "Laboratory Website!"
 author     : Hani N. Alsafadi
 logo:     
   path: "assets/img/logo/LBR_logo_header_white.png"
-  #height: 60 #height in px, defaults to 52px
+  height: 80 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
 
 collections:
   labmembers:
+  projects:
+  news:
 
 markdown: kramdown

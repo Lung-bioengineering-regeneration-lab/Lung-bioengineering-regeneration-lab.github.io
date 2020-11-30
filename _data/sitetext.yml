@@ -11,9 +11,15 @@ about:
 
 labmembers:
     title: "LBR members"
-    text: ""
+    text: "Current LBR members."
     subtext: 
     section: labmembers
+
+projects:
+    title: "LBR projects"
+    text: ""
+    subtext: 
+    section: projects
 
 publications:
     title: "Published by LBR"
@@ -25,26 +31,9 @@ social:
     text: ""
     section: social
 
-sponsors:
-    section: sponsors
-    max-height: 50px
-    horizontal-scrolling: "yes" #"yes/no"
-    list:
-      - title: "NBIS"
-        url: https://nbis.se
-        logo: assets/img/sponsors/nbis.svg
-      - title: "GENECO"
-        url: https://www.biology.lu.se/education/phd-studies/geneco-graduate-research-school-genomic-ecology/about-geneco
-        logo: assets/img/sponsors/lu.png
-      - title: "AI Lund"
-        url: http://ai.lu.se/
-        logo: assets/img/sponsors/lu.png
-      - title: "SAGA Diagnostics"
-        url: https://sagadiagnostics.com/
-        logo: assets/img/sponsors/saga.png
-      - title: "COMPUTE"
-        url: http://cbbp.thep.lu.se/compute/index.php
-        logo: assets/img/sponsors/compute.png
+funding:
+    title: "Funding"
+    section: funding
           
 contact:
     title: "Contact Us"

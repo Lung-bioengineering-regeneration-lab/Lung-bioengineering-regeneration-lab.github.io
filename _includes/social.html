@@ -5,9 +5,37 @@
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">{{ site.data.sitetext.social.title | default: "LBR on Social Media" }}</h2>
           <h3 class="section-subheading text-muted">{{ site.data.sitetext.social.text | default: "" }}</h3>
-          <a class="twitter-timeline" data-height="600" data-theme="light" href="https://twitter.com/DWagnerLab?ref_src=twsrc%5Etfw">Tweets by DWagnerLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <div class="row">
+          <div class="col-sm-6"><a class="twitter-timeline" data-height="400px" data-theme="light" href="https://twitter.com/DWagnerLab?ref_src=twsrc%5Etfw">Tweets by DWagnerLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+          <div class="col-sm-6">
+            <!-- code for news goes here -->
+            <div class="scroll-div">
+            {% for new in site.news %}
+            <div class="col-md-11 portfolio-item effect1">
+                <a href="#n{{ forloop.index }}" class="portfolio-link" data-toggle="modal">
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                            <i class="fa fa-info-circle fa-2x"></i>
+                        </div>
+                    </div>
+                    <img src="assets/img/{{ new.img }}" class="project-image" alt="">
+                
+                
+                <div class="portfolio-caption">
+                    <h4>{{ new.title }}</h4>
+                    <p class="text-muted">{{ new.subtitle }}</p>
+                </div>
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+          </div>
+            
+          </div>
         </div>
       </div>
     </div>
   </section>
+  {% include newsmodals.html %}
 <!-- End social -->

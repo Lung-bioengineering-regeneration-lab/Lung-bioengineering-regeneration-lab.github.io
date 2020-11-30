@@ -7,7 +7,7 @@ image: "assets/img/members/user.jpg"
 social:
   - url: 
     #fill in ORCID URL. Leave blank if you do not have ORCID.
-    icon: fab fa-orcid
+    icon: ai ai-orcid
   - url: 
     #fill in twitter URL. Leave blank if you do not have twitter.
     icon: fab fa-twitter

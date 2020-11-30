@@ -4,15 +4,18 @@ nav:
 
   - title: "Members"
     section: labmembers
+
+  - title: "Projects"
+    section: projects
     
   - title: "Publications"
     section: publications
 
-  - title: Social media
+  - title: "News"
     section: social
 
-  - title: "Sponsors"
-    section: sponsors
+  - title: "Funding"
+    section: funding
 
   - title: "Contact"
     section: contact

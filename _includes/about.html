@@ -4,10 +4,9 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
-          <h3 class="section-subheading text-muted">{{ site.data.sitetext.about.text | default: "" }}</h3>
-          <iframe width="80%" height="auto" src="https://www.youtube.com/embed/kgIDXKYqKu0?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        
-        </div>
+          {% capture my_include %}{% include aboutus.md %}{% endcapture %}
+          {{ my_include | markdownify }}
+          </div>
       </div>
     </div>
   </section>

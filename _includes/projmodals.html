@@ -1,0 +1,35 @@
+<!-- project Modals -->
+{% for project in site.projects %}
+  <div class="portfolio-modal modal fade" id="pj{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+    
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <img class="proj-header" src="assets\img\{{ project.img }}">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- member Details Go Here -->
+                <h3 class="text-uppercase">{{ project.title }}</h3>
+                {% for author in project.authors %}
+                <p class="item-intro text-muted">{{ author.name }}</p>
+                {% endfor %}
+                <p>{{ project.content }}</p>	
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  "Close project description!"</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
+<!-- End project Modals -->
