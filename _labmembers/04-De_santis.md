@@ -8,7 +8,7 @@ social:
   - url: https://orcid.org/0000-0002-0733-2599
     #fill in ORCID URL. Leave blank if you do not have ORCID.
     icon: ai ai-orcid
-  - url: https://twitter.com/Martina44339297
+  - url: https://twitter.com/martina_des
     #fill in twitter URL. Leave blank if you do not have twitter.
     icon: fab fa-twitter
   - url: https://www.linkedin.com/in/martina-de-santis-3aa03192/
@@ -17,6 +17,9 @@ social:
   - url: https://portal.research.lu.se/portal/en/persons/martina-de-santis(a811a54c-9b15-4171-ae9e-a16aca7016fe).html
     #fill in LU research portal link: You must have one of these. Otherwise, leave blank.
     icon: fas fa-user-circle
+info:
+  - info_term: "Nationality"
+    value: "Italy; Germany."
 ---
 ##### About me
 Hello! I am a PhD student trying to find solutions for next generation bioengineering of lung tissue for transplantation. During my free time I like to be in the nature and love most outdoor activities including skiing, hiking and hunting for mushrooms. 

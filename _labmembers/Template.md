@@ -17,9 +17,12 @@ social:
   - url: 
     #fill in LU research portal link: You must have one of these. Otherwise, leave blank.
     icon: fas fa-user-circle
+info:
+  - info_term: "Nationality"
+    value: "Sweden"
 ---
+
+
 This Space here will be used to write a small bio on the person.
 
-{:.list-inline}
-- list item 1
-- list item 2
+
