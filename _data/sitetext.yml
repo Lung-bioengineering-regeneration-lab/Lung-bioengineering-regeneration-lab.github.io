@@ -26,11 +26,16 @@ publications:
     text: "Publications list with LBR affiliation retrieved from Pubmed!"
     section: publications
 
+
 social:
     title: "LBR on Social media"
     text: ""
     section: social
 
+resources:
+    title: "LBR resources"
+    text: ""
+    section: resources
 funding:
     title: "Funding"
     section: funding

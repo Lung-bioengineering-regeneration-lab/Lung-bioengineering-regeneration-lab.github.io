@@ -1,0 +1,32 @@
+<!-- project Modals -->
+{% for resource in site.resources %}
+  <div class="portfolio-modal modal fade" id="n{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+    
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <h3 class="text-uppercase">{{ resource.title }}</h3>
+                <h4 class="text-muted"> {{ resource.type }}</h4>
+                ======
+                <p>{{ resource.content }}</p>	
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  "Close"</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
+<!-- End project Modals -->

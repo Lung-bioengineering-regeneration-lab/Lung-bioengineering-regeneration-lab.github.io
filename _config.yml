@@ -30,5 +30,6 @@ collections:
   labmembers:
   projects:
   news:
-
+  resources:
+    
 markdown: kramdown
