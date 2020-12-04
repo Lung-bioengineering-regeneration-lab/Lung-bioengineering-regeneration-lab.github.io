@@ -16,6 +16,8 @@ social:
 info:
   - info_term: "Nationality"
     value: "Palestine"
+  - info_term: "Calendly"
+    value: "[Schedule a meeting!](https://calendly.com/hani-alsafadi)"
 ---
 
 ##### About me
@@ -33,4 +35,4 @@ The problem with current approved drugs is that they are not specific and that i
 
 [Vetenskapens värld episode on Lung Transplantation: "Organ på väg" ](https://www.vetenskaphalsa.se/lundaforskare-provar-metod-mot-organavstotning/)
 
-<img src="assets/img/hani1.png" width="60%;"> 
+<img src="assets/img/hani1.PNG" width="60%;"> 
