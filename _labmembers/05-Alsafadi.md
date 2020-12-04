@@ -17,7 +17,7 @@ info:
   - info_term: "Nationality"
     value: "Palestine"
   - info_term: "Calendly"
-    value: "{{ [Schedule a meeting!](https://calendly.com/hani-alsafadi) }}"
+    value: "<a href='https://calendly.com/hani-alsafadi'>Schedule a meeting!</a>"
 ---
 
 ##### About me
