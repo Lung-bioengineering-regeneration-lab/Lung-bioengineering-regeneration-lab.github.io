@@ -2,8 +2,8 @@
 name: "Darcy Wagner"
 role: "Associate Professor, Wallenberg Molecular Medicine Fellow"
 subtitle: "I am interested in generating lung tissue in the lab to study disease, develop new therapies and one day to be able to manufacture lung tissue in the lab for transplantation."
-pubmed: "Terms used for Pubmed search"
-image: "assets/img/members/user.jpg"
+pubmed: "Darcy Wagner OR Darcy E Wagner"
+image: "assets/img/members/Wagner_square_photo.tif"
 social:
   - url: https://orcid.org/0000-0003-3794-1309
     #fill in ORCID URL. Leave blank if you do not have ORCID.
