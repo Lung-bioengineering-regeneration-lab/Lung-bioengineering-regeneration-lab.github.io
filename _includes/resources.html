@@ -9,22 +9,19 @@
           <div class="col-sm-12">
             <!-- code for news goes here -->
             <div>
-            {% for resource in site.resources %}
-            <div class="col-md-11 portfolio-item effect1">
-                <a href="#r{{ forloop.index }}" class="portfolio-link" data-toggle="modal">
-                    <!-- <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-info-circle fa-2x"></i>
-                        </div>
-                    </div>-->
-                <div class="portfolio-caption">
-                    <h4>{{ resource.title }}</h4>
-                    <p class="text-muted">{{ resource.description }}</p>
-                    <p class="text-muted">{{ resource.latest_update }}</p>
-                </div> 
-              </a>
-            </div>
-            {% endfor %}
+            <div class="row">
+              {% for resource in site.data.sitetext.resources.types %}
+                  <div class="col-md col-sm-11 portfolio-item effect1">
+                      <a href="{{ resource.page }}" class="portfolio-link">
+                          <img src="{{ resource.image }}" class="img-fluid grid-img" alt="">
+                      <div class="portfolio-caption">
+                      <h4>{{ resource.title }}</h4>
+                      <p class="text-muted">{{ resource.subtitle }}</p>
+                      </div>
+                      </a>
+                  </div>
+              {% endfor %}
+              </div>
           </div>
           </div>
             
@@ -33,5 +30,4 @@
       </div>
     </div>
   </section>
-  {% include resourcemodals.html %}
 <!-- End resources -->

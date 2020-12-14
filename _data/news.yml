@@ -1,0 +1,51 @@
+newslist:
+  - title: Kliniskt fysiologisk lungforskning
+    source: Lung & Allergiforum
+    img:
+    author:
+    link: https://etidning.slmf.se/1915/Lung-Allergiforum/356841/2020-12-10/r/17
+
+  - title: Här skapas lungvävnad på laboratoriet
+    source: Forskning & Framsteg
+    img:
+    author: FirstName LastName
+    link: https://fof.se/artikel/har-skapas-lungvavnad-pa-laboratoriet
+
+  - title: "Meet this week’s Wallenberg Researcher: Darcy Wagner"
+    source: "LU Med News"
+    img:
+    author: 
+    link: https://www.medicine.lu.se/article/meet-this-weeks-wallenberg-researcher-darcy-wagner
+  
+  - title: "Darcy Wagner Receives ERC starting grant"
+    source: "LU Med News"
+    img:
+    author: 
+    link: https://www.wcmm.lu.se/darcy-wagner-receives-erc-starting-grant
+
+  - title: "Four LU researchers receive ERC starting grants"
+    source: LU News
+    img:
+    author: 
+    link: https://www.lunduniversity.lu.se/article/four-lu-researchers-receive-erc-starting-grants
+  
+  - title: 
+    source: 
+    img:
+    author: 
+    link: 
+  
+  - title: 
+    source: 
+    img:
+    author: 
+    link: 
+  
+  - title: 
+    source: 
+    img:
+    author: 
+    link: 
+  
+  
+  

@@ -3,7 +3,7 @@ name: "Darcy Wagner"
 role: "Associate Professor, Wallenberg Molecular Medicine Fellow"
 subtitle: "I am interested in generating lung tissue in the lab to study disease, develop new therapies and one day to be able to manufacture lung tissue in the lab for transplantation."
 pubmed: "Darcy Wagner OR Darcy E Wagner"
-image: "assets/img/members/Wagner_square_photo.tif"
+image: "assets/img/members/Wagner_square_photo.png"
 social:
   - url: https://orcid.org/0000-0003-3794-1309
     #fill in ORCID URL. Leave blank if you do not have ORCID.
@@ -31,5 +31,6 @@ I was selected in 2017 as one of the American Thoracic Society’s ‘Rising Sta
 
 ##### Learn more about my work in popular media
 [WCMM Highlight Video: "Developing therapies for patients with lung diseases"](https://www.youtube.com/watch?v=kgIDXKYqKu0)
+
 [Vetenskapens värld episode on Lung Transplantation: "Organ på väg"](https://www.vetenskaphalsa.se/lundaforskare-provar-metod-mot-organavstotning/)
 
