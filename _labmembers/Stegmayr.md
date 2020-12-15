@@ -1,6 +1,6 @@
 ---
 name: "John Stegmayr"
-role: "Associate Researcher (PhD)"
+role: "Associate Researcher"
 subtitle: "*Ex vivo* modeling of lung disease and drug screening"
 pubmed: "Stegmayr J[Author]"
 image: "assets/img/members/Stegmayr.jpg"
