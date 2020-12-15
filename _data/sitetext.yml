@@ -48,11 +48,11 @@ resources:
       - title: "3D printatble files"
         subtitle:
         image: "assets/img/resources/resource_template.jpeg"
-        page: 3d-files
+        page: 3d-file
       - title: "Bioinformatics Piplines"
         subtitle: 
         image: "assets/img/resources/programing.jpg"
-        page:
+        page: code
 
 funding:
     title: "Funding"
