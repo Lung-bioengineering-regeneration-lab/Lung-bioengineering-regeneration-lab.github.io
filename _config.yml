@@ -13,7 +13,7 @@
 
 #theme: jekyll-agency
 url    : "lbr-lab.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Lung Bioengineering and Regeneration Lab
 email      : lbr-lab@med.lu.se #this is also the email contact forms will go to
