@@ -1,21 +1,29 @@
 nav:
   - title: "Our Research"
+    dropdown:
     section: about
-
+    
   - title: "Members"
+    dropdown:
     section: labmembers
-
+    
   - title: "Publications"
+    dropdown:
     section: publications
-
+    
   - title: "News"
+    dropdown:
     section: social
-
+    
   - title: "Resources"
+    dropdown: "resources"
     section: resources
-
+        
   - title: "Funding"
+    dropdown:
     section: funding
-
+       
   - title: "Contact"
+    dropdown:
     section: contact
+    

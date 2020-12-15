@@ -20,8 +20,4 @@ Our novel data indicates that a number of Hippo pathway components are decreased
 
 Lung fibrosis is a deadly disease with no available cure. Lung fibrosis can be described as an excessive injury to the lung that stiffens it preventing the barer of the disease from breathing. If you think of the lung as a balloon, lung fibrosis is like crumbling parts of the balloon continuously without stopping. Currently, the only available drugs do not help the patients, they only slow down the disease progression. These patients only survive for a few years once diagnosed. This is because we do not understand the exact causes of the disease. My doctoral studies are focused on identifying specific mechanisms related to lung stiffness in order to find new effective therapies for lung fibrosis.
 
-#### publications:
-- Publication 1
-- Publication 2
-
 

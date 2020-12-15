@@ -16,12 +16,18 @@
         <ul class="navbar-nav text-uppercase ml-auto">
 		  {%- for link in site.data.navigation.nav -%}
 		  <li class="nav-item">
-		  {%- if link.url -%}
-		    <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
-		  {%- else if link.section -%}
-		    <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
-		  {%- else -%}
-		    <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
+		  {%- if link.dropdown == "resources" -%}
+        <div class="dropdown">  
+          <a class="nav-link js-scroll-trigger dropbtn" href="#{{ link.section }}">{{ link.title }}</a>
+          <div class="dropdown-content">
+          {% for resource in site.data.sitetext.resources.types %}
+            <a href="{{ resource.page }}">{{ resource.title }}</a>
+          {% endfor %}
+          </div>
+        </div>
+      
+      {%- else -%}
+        <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
 		  {%- endif -%}
           </li>
 		  {% endfor %}
