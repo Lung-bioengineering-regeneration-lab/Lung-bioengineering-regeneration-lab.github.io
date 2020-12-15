@@ -9,11 +9,9 @@ social:
     icon: ai ai-orcid
   - url: 
     icon: fab fa-twitter
-  - url: 
-    https://www.linkedin.com/in/margareta-mittendorfer-1003aa1b9/
+  - url: https://www.linkedin.com/in/margareta-mittendorfer-1003aa1b9/
     icon: fab fa-linkedin-in
-  - url: 
-    https://portal.research.lu.se/portal/en/persons/margareta-mittendorfer(3c8a8aa3-2397-40a9-89d6-e128a829ca54).html
+  - url: https://portal.research.lu.se/portal/en/persons/margareta-mittendorfer(3c8a8aa3-2397-40a9-89d6-e128a829ca54).html
     icon: fas fa-user-circle
 info:
   - info_term: "Nationality"
