@@ -45,7 +45,7 @@ resources:
         subtitle: 
         image: "assets/img/resources/resource_template.jpeg"
         page: pcls
-      - title: "3D printatble files"
+      - title: "3D Printable files"
         subtitle:
         image: "assets/img/resources/resource_template.jpeg"
         page: 3d-file
