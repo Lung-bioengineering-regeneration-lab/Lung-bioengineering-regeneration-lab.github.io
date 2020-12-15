@@ -6,8 +6,7 @@
           <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
           {% capture my_include %}{% include aboutus.md %}{% endcapture %}
           {{ my_include | markdownify }}
-          {%- if site.data.sitetext.header.button2 -%}
-        <a class="btn btn-primary btn-xl text-uppercase" href="#projects">Read more about LBR projects!</a>
+          <a class="btn btn-primary btn-xl text-uppercase" href="#projects">Read more about LBR projects!</a>
 	      </div>
         
       </div>
