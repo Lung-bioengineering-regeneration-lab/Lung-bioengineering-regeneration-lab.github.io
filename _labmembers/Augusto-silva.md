@@ -4,7 +4,7 @@ role: "PhD Student"
 subtitle: "Master of Science with emphasis in Pathophysiology and Anatomy - FMVZ- USP-Brazil. Specialist in Molecular Biology and Parasitology - IAL-SP. Bachelor of Biological Sciences UAM-SP."
 
 pubmed: "Terms used for Pubmed search"
-image: "assets/img/members/augusto-silve.jpeg"
+image: "assets/img/members/augusto-silva.jpeg"
 social:
   - url: https://orcid.org/0000-0002-5084-5429
     #fill in ORCID URL. 
