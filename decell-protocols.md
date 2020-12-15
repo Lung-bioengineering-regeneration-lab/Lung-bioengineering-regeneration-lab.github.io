@@ -7,7 +7,8 @@ title: Decellularization Protocols
 
 This page contains the most updated LBR protocols for lung decellularization.
 
-<div class="row">
+
+<div>
 {% for resource in site.resources %}
 {% if resource.type == "decell" %}
     <div class="col-md col-sm-11 portfolio-item effect1">

@@ -39,7 +39,7 @@ resources:
     types:
       - title: "Decellularization Protocols"
         subtitle: "All species decellularisation protocols"
-        image: "assets/img/resources/resource_template.jpeg"
+        image: "assets/img/resources/lung2.jpeg"
         page: decell-protocols
       - title: "Precision-Cut Lung Slices (PCLS)"
         subtitle: 
