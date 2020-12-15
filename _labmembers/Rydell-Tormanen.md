@@ -3,7 +3,7 @@ name: "Kristina Rydell-Törmänen"
 role: "Assistant researcher"
 subtitle: "Investigating the role of embryological signaling in adult lung regeneration"
 pubmed: "Kristina Rydell-Tormanen OR KR Tormanen OR K Rydell-Tormanen"
-image: "assets/img/members/rydell-tormanen.jpg"
+image: "assets/img/members/user.jpg"
 social:
   - url: https://orcid.org/0000-0002-8709-4497 
     #fill in ORCID URL. Leave blank if you do not have ORCID.
