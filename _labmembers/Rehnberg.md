@@ -11,6 +11,7 @@ social:
   - url: https://twitter.com/rehnbergemil
     icon: fab fa-twitter
   - url: https://www.linkedin.com/in/emil-rehnberg
+    icon: fab fa-linkedin-in
   - url: 
     #fill in LU research portal link: You must have one of these. Otherwise, leave blank.
     icon: fas fa-user-circle
