@@ -15,8 +15,6 @@ social:
     icon: fas fa-user-circle
 info:
   - info_term: "Nationality"
-    value: "Palestine"
-  - info_term: "Calendly"
-    value: "<a href='https://calendly.com/hani-alsafadi'>Schedule a meeting!</a>"
+    value: "Cuban; Swedish"
 ---
 
