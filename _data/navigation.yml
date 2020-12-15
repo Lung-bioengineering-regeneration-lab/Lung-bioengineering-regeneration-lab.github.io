@@ -1,14 +1,11 @@
 nav:
-  - title: "About"
+  - title: "Our Research"
     section: about
 
   - title: "Members"
     section: labmembers
 
-  - title: "Projects"
-    section: projects
-    
-  - title: "Publications"
+   - title: "Publications"
     section: publications
 
   - title: "News"
