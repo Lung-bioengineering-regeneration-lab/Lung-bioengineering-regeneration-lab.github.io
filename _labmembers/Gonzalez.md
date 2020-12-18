@@ -3,6 +3,7 @@ name: "Ernesto Gonzalez"
 role: "Researcher"
 subtitle: ""
 pubmed: ""
+lucat: "er8225go"
 image: "assets/img/members/gonzalez.jpeg"
 social:
   - url: https://orcid.org/0000-0003-3722-6364

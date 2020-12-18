@@ -4,6 +4,7 @@ role: "Master Student"
 subtitle: "Exploring the potential role of lymphatic vessels in lung de- and recellularization processes"
 pubmed: "Terms used for Pubmed search"
 image: "assets/img/members/tamargo.jpg"
+lucat: 
 social:
   - url: 
     #fill in ORCID URL. Leave blank if you do not have ORCID.

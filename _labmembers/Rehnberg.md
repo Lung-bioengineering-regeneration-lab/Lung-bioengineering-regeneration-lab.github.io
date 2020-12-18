@@ -4,6 +4,7 @@ role: "Student"
 subtitle: "Nanoengineer who is interested in biomaterials and device fabrication"
 pubmed: "Emil Rehnberg OR E Rehnberg"
 image: "assets/img/members/rehnberg.jpg"
+lucat: "em3848re"
 social:
   - url: 
     #fill in ORCID URL. Leave blank if you do not have ORCID.

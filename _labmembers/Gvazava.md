@@ -4,6 +4,7 @@ role: "Research Engineer"
 subtitle: ""
 pubmed: "Terms used for Pubmed search"
 image: "assets/img/members/gvazava.jpg"
+lucat: "ni2513gv"
 social:
   - url: 
     #fill in ORCID URL. Leave blank if you do not have ORCID.

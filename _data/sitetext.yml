@@ -8,6 +8,7 @@ about:
     title: "LBR"
     text: "---- WHO we are ---- ask for text from DEW.."
     section: about
+    LUGroupId: "v1001194"
 
 labmembers:
     title: "LBR members"
@@ -23,7 +24,7 @@ projects:
 
 publications:
     title: "Published by LBR"
-    text: "Publications list with LBR affiliation retrieved from Pubmed!"
+    text: ""
     section: publications
 
 

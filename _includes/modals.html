@@ -42,6 +42,17 @@
                   <!-- member Details Go Here -->
                   <p class="item-intro text-muted">{{ member.subtitle }}</p>
                   <p>{{ member.content }}</p>	
+                  
+                  {%- if member.lucat -%}
+                  <h4> Published by author: </h4>
+                  <iframe src="https://lup.lub.lu.se/search/publication?embed=1&limit=10&q=author+exact+{{ member.lucat }}&sort=publicationstatus.desc&sort=year.desc"
+                  width="100%"
+                  height="400"
+                  allowtransparency="true"
+                  frameborder="0">
+                  </iframe>
+                  {%- endif -%}
+
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
                     {{ site.data.sitetext.keynote.closebutton | default: "Close Description" }}</button>

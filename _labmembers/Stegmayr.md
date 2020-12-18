@@ -4,6 +4,7 @@ role: "Associate Researcher"
 subtitle: "*Ex vivo* modeling of lung disease and drug screening"
 pubmed: "Stegmayr J[Author]"
 image: "assets/img/members/Stegmayr.jpg"
+lucat: "jo6360st"
 social:
   - url: https://orcid.org/0000-0002-8167-9259
     #fill in ORCID URL. Leave blank if you do not have ORCID.

@@ -3,6 +3,7 @@ name: "Hani N. Alsafadi"
 role: "PhD Student"
 subtitle: "Unravelling the unknown of lung fibrosis to find a treatment for the incurable disease"
 pubmed: "Hani Alsafadi OR Hani N Alsafadi OR HN Alsafadi"
+lucat: "ha8343al"
 image: "assets/img/members/alsafadi.png"
 social:
   - url: https://orcid.org/0000-0002-1186-2517

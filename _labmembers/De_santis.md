@@ -3,6 +3,7 @@ name: "Martina De Santis"
 role: "PhD Student"
 subtitle: "Finding solutions for bioengineering lung tissue"
 pubmed: "Martina M De Santis OR MM De Santis OR MM de Santis"
+lucat: "ma1285de"
 image: "assets/img/members/MDS.jpg"
 social:
   - url: https://orcid.org/0000-0002-0733-2599

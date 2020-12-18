@@ -4,6 +4,7 @@ role: "M.Sc. Student"
 subtitle: "Biomedical Engineer dedicated to finding solutions in the area of Tissue Enginnering"
 pubmed: "Thomas Syski OR Tomasz Syski OR Thomas J Syski OR Tomasz J Syski OR TJ Syski"
 image: "assets/img/members/syski.jpg"
+lucat: 
 social:
   - url: 
     #fill in ORCID URL. Leave blank if you do not have ORCID.

@@ -4,6 +4,7 @@ role: "MSc Student"
 subtitle: "Exploring the art of physiologically recellularizing decellularized murine lungs"
 pubmed: "Margareta Mittendorfer or M Mittendorfer"
 image: "assets/img/members/Mittendorfer.jpg"
+lucat: "ma4887mi"
 social:
   - url: 
     icon: ai ai-orcid
