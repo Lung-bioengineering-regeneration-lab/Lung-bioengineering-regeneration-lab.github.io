@@ -3,6 +3,10 @@ nav:
     dropdown:
     section: about
     
+  - title: "News"
+    dropdown:
+    section: social
+
   - title: "Members"
     dropdown:
     section: labmembers
@@ -11,14 +15,10 @@ nav:
     dropdown:
     section: publications
     
-  - title: "News"
-    dropdown:
-    section: social
-    
   - title: "Resources"
     dropdown: "resources"
     section: resources
-        
+  
   - title: "Funding"
     dropdown:
     section: funding

@@ -11,7 +11,7 @@ LBR is most grateful for all of the alumni that contributed to making this lab w
     {% for person in site.alumni %}
     <div class="col-sm-3">
       <div class="team-member">
-      <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
+      <a class="portfolio-link" data-toggle="modal" href="#al{{ forloop.index }}">
         <img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
       </a>
       <h4>{{ person.name }}</h4>
@@ -31,3 +31,4 @@ LBR is most grateful for all of the alumni that contributed to making this lab w
     </div>
     {% endfor %}
 </div>
+{% include alumni_modal.html %}

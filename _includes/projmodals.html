@@ -4,8 +4,7 @@
     
     <div class="modal-dialog">
       <div class="modal-content">
-        <img class="proj-header" src="assets\img\{{ project.img }}">
-        <div class="close-modal" data-dismiss="modal">
+         <div class="close-modal" data-dismiss="modal">
           <div class="lr">
             <div class="rl"></div>
           </div>
@@ -16,10 +15,24 @@
               <div class="modal-body">
                 <!-- member Details Go Here -->
                 <h3 class="text-uppercase">{{ project.title }}</h3>
+                <h3 class="text-uppercase">{{ project.start-year }} to {{ project.end-year }}</h3>
+                <h4>Project Participants:</h4>
                 {% for author in project.authors %}
                 <p class="item-intro text-muted">{{ author.name }}</p>
                 {% endfor %}
+                {%- if project.collaborators -%}
+                <h4>Collaborators:</h4>
+                {% for author in project.collaborators %}
+                <p class="item-intro text-muted">{{ author.name }}</p>
+                {% endfor %}
+                {%- endif -%}
                 <p>{{ project.content }}</p>	
+                
+                <div>
+                  <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ project.link }}">Link to funding agency!</a>
+                  <p> </p>	
+                </div>
+                
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
                   "Close project description!"</button>

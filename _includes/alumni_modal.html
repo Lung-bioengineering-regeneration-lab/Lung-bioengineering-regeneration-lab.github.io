@@ -1,0 +1,69 @@
+<!-- Keynote Modals -->
+{% for member in site.alumni %}
+  <div class="portfolio-modal modal fade" id="al{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        
+        </div>
+        <div class="container">
+          <div class="row">
+            
+            <div class="col-lg-3 mx-auto leftside">
+              <img class="mx-auto rounded-circle" src="{{ member.image }}" style="max-width: 150px; max-height: 150px;" alt="">
+              <h4 class="text-uppercase">  {{ member.name }}</h4>
+              <ul class="list-inline social-buttons">
+                {% for network in member.social %}
+                {%- if network.url -%}  
+                <li class="list-inline-item">
+                  <a href="{{ network.url }}" target="_blank">
+                    <i class="{{ network.icon }}"></i>
+                  </a>
+                  </li>
+                {%- endif -%}
+                {% endfor %}
+                </ul>
+                <ul class="list-inline">
+                  <li><b> Role: </b>{{ member.role}}</li>
+                  {% for item in member.info %}
+                  {%- if item.info_term -%} 
+                  <li> <b> {{ item.info_term }}: </b> {{ item.value }}</li>
+                  {%- endif -%}
+                  {% endfor %}
+
+                </ul>
+            </div>
+            <div class="col-lg-9 mx-auto">
+                <div class="modal-body">
+                  <!-- member Details Go Here -->
+                  <p class="item-intro text-muted">{{ member.subtitle }}</p>
+                  <p>{{ member.content }}</p>	
+                  
+                  {%- if member.lucat -%}
+                  <h4> Published by author: </h4>
+                  <iframe src="https://lup.lub.lu.se/search/publication?embed=1&limit=10&q=author+exact+{{ member.lucat }}&sort=publicationstatus.desc&sort=year.desc"
+                  width="100%"
+                  height="400"
+                  allowtransparency="true"
+                  frameborder="0">
+                  </iframe>
+                  {%- endif -%}
+
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fas fa-times"></i>
+                    {{ site.data.sitetext.keynote.closebutton | default: "Close Description" }}</button>
+            </div>
+          </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
+<!-- End Keynote Modals -->

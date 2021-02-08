@@ -12,15 +12,9 @@ about:
 
 labmembers:
     title: "LBR members"
-    text: "Current LBR members."
+    text: "Current LBR members. <a href='/alumni'>Click here to view LBR alumni</a>"
     subtext: 
     section: labmembers
-
-projects:
-    title: "LBR projects"
-    text: ""
-    subtext: 
-    section: projects
 
 publications:
     title: "Published by LBR"

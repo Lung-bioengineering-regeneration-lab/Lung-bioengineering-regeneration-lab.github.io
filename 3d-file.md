@@ -5,7 +5,8 @@ title: 3D printable files
 
 ## Available 3D-printable files
 
-This page contains the stl 3d files that are used in LBR publications.
+
+Coming soon ...
 
 
 <div>
@@ -16,7 +17,7 @@ This page contains the stl 3d files that are used in LBR publications.
             <img src="{{ resource.image }}" class="img-fluid grid-img" alt="">
             <div class="portfolio-caption">
                 <h4>{{ resource.title }}</h4>
-                <p class="text-muted">{{ resource.subtitle }}</p>
+                <p class="text-muted">{{ resource.description }}</p>
            </div>
         </a>                  
     </div>
