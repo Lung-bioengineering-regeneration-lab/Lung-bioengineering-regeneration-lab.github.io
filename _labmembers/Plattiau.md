@@ -1,9 +1,9 @@
 ---
-name: "FirstName LastName"
-role: "SomeRole"
-subtitle: "A sentence that describes your science"
-lucat: 
-image: "assets/img/members/user.jpg"
+name: Plattiau Pieter
+role: Intern Guest researcher
+subtitle: Being a scientist is like looking for the breaker switch during a power outage, you know you'll get there, but you just don't know when.
+lucat: pi5552pl
+image: "assets/img/members/plattiau.jpg"
 social:
   - url: 
     #fill in ORCID URL above after the (:). Leave blank if you do not have ORCID.
@@ -19,7 +19,7 @@ social:
     icon: fas fa-user-circle
 info:
   - info_term: "Nationality"
-    value: "Sweden"
+    value: "Belgian"
 ---
 
 <!-- Write a small bio about yourself under here-->
