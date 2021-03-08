@@ -1,10 +1,10 @@
 newslist:
-  - title: "New Promising Treatment Uses Smart Nanoparticles to Target Lung Cancer"
+  - title: "PhD defence interview – Martina De Santis"
     source: "LU Med News 2021"
     img:
     author:
-    link: https://www.medicine.lu.se/article/new-promising-treatment-uses-smart-nanoparticles-to-target-lung-cancer
- 
+    link: https://www.stemcellcenter.lu.se/article/phd-defence-interview-martina-de-santis
+  
   - title: "A new interdisciplinary co-op between researchers, healthcare and industry formed to fight the virus"
     source: "LU Med News 2021"
     img:
@@ -22,7 +22,13 @@ newslist:
     img:
     author: 
     link: https://www.medicine.lu.se/article/meet-this-weeks-wallenberg-researcher-darcy-wagner
-
+  
+  - title: "New Promising Treatment Uses Smart Nanoparticles to Target Lung Cancer"
+    source: "LU Med News 2020"
+    img:
+    author:
+    link: https://www.medicine.lu.se/article/new-promising-treatment-uses-smart-nanoparticles-to-target-lung-cancer
+ 
   - title: "Här skapas lungvävnad på laboratoriet"
     source: "Forskning & Framsteg 2019"
     img:
