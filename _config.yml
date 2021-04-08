@@ -32,5 +32,6 @@ collections:
   news:
   resources:
   alumni:
+  newslist:
     
 markdown: kramdown
