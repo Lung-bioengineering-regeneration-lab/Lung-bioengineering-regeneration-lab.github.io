@@ -1,5 +1,5 @@
 <!-- social -->
-  <section class="page-section" id="{{ site.data.sitetext.social.section | default: "social" }}">
+  <section class="page-section" id="{{ site.data.sitetext.social.section | default: 'social' }}">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
@@ -11,7 +11,7 @@
           <div class="col-sm-6">
             <!-- code for news goes here -->
             <div class="scroll-div">
-            {% for new in site.data.news.newslist %}
+            {% for new in site.newslist reversed %}
             {%- if new.title -%}
             <div class="col-md-11 portfolio-item effect2">
                 <a href="{{ new.link }}" class="portfolio-link">
