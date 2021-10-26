@@ -5,7 +5,7 @@ title: Sustainability
 
 ### Sustainability
 
-<img src="assets/img/logo/SustainabilityLogoBlack.PNG" width="30%;" style="margin-left:35%;"> 
+<img src="assets/img/logo/SustainabilityLogoBlack.png" width="30%;" style="margin-left:35%;"> 
 
 
 The Lung Bioengineering and Regeneration (LBR) group at Lund University is committed to doing our part to help achieve the Agenda 2030 Sustainability goals set by the United Nations. Our efforts range from improving our work flows and procedures to maximize their efficiency and increase equal access to a diverse work force, as well as reducing our use of consumables and energy and working to replace chemicals which are harmful across their life cycle. Additionally, all members of the LBR group are working continuously to implement concepts of sustainability in their own research projects. In this page you will find examples of the steps LBR has taken towards a more sustainable science. Please come back to this page to follow our journey and learn with us on the way to achieving Agenda 2030.
