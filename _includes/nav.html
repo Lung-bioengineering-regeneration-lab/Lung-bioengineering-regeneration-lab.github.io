@@ -25,7 +25,8 @@
               {% endfor %}
               </div>
             </div>
-          
+          {%- elsif link.url -%}
+            <a class="nav-link js-scroll-trigger" href="{{ site.url }}/{{ link.url }}">{{ link.title }}</a>
           {%- else -%}
             <a class="nav-link js-scroll-trigger" href="{{ site.url }}/#{{ link.section }}">{{ link.title }}</a>
           {%- endif -%}
