@@ -3,7 +3,7 @@ name: "Jiao Dong"
 role: "PhD student"
 subtitle: "I am a clinician in China but also passionate about new therapies that could provide promising medicine."
 lucat: ji4763do
-image: "assets/img/members/Dong2.png"
+image: "assets/img/members/dong2.png"
 social:
   - url: https://orcid.org/0000-0002-6239-686X
     icon: ai ai-orcid
