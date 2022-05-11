@@ -6,8 +6,6 @@ title: 3D printable files
 ## Available 3D-printable files
 
 
-Coming soon ...
-
 
 <div>
 {% for resource in site.resources %}

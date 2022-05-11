@@ -2,6 +2,7 @@
 title: "Print the 3D lobe divider (3DLD)"
 type: "3d-file"
 description: "The surgical guide used for the simoltaneous isolation of proximal and distal epithelial"
+link: https://www.biorxiv.org/content/10.1101/2022.05.10.491312v1
 latest_update: 2022/05/11
 authors:
   - name: Hani N. Alsafadi  
