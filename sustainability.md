@@ -20,7 +20,7 @@ The Lung Bioengineering and Regeneration (LBR) group at Lund University is commi
     b. Techniques to reduce animal numbers if used:
     - live imaging of PCLS
     - techniques to perform next generation sequencing on PCLS (to reduce animal numbers and allow digital data sharing through deposition on public servers)
-    - use of 3D printing devices to simultaneously isolate multiple cell types from one mouse
+    - use of 3D printing devices to simultaneously isolate multiple cell types from one mouse ([GitHub Repository](https://github.com/Lung-bioengineering-regeneration-lab/dual_cell_isolation)). 
     c. All pilot experiments should use animals in tissue sharing programs
     d. Use of publicly available data sets in early stages of all projects if possible to reduce animal usage
 
