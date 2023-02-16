@@ -8,6 +8,7 @@ layout: page
 LBR is most grateful for all of the alumni that contributed to making this lab what it is. 
 
 <div class="row">
+
     {% for person in site.alumni %}
     <div class="col-sm-3">
       <div class="team-member">
