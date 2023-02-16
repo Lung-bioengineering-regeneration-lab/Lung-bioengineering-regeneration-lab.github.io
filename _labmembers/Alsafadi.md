@@ -1,6 +1,6 @@
 ---
 name: "Hani N. Alsafadi"
-role: "PhD Student"
+role: "PhD"
 subtitle: "Unravelling the unknown of lung fibrosis to find a treatment for the incurable disease"
 pubmed: "Hani Alsafadi OR Hani N Alsafadi OR HN Alsafadi"
 lucat: "ha8343al"
@@ -21,6 +21,8 @@ info:
 
 ##### About me
 I come from Gaza, Palestine. I was admitted to the PhD course in August of 2018 at the group of Dr. Darcy Wagner, Lung bioengineering and regeneration (LBR). My PhD project is about finding new relevant transcriptional complexes in the lung epithelium of Idiopathic Pulmonary Fibrosis (IPF).
+
+[Check out my page](https://alsafadi.github.io)
 
 ##### Popular Summary
 Lung fibrosis is a deadly disease with no available cure. Lung fibrosis can be described as an excessive injury to the lung that stiffens it preventing the barer of the disease from breathing. If you think of the lung as a balloon, lung fibrosis is like crumbling parts of the balloon continuously without stopping. Currently, the only available drugs do not help the patients, they only slow down the disease progression. These patients only survive for a few years once diagnosed. This is because we do not understand the exact causes of the disease. My doctoral studies are focused on identifying specific mechanisms related to lung stiffness in order to find new effective therapies for lung fibrosis.
