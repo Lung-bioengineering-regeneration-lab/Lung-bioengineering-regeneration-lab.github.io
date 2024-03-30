@@ -27,7 +27,12 @@ nav:
     dropdown:
     section: 
     url: sustainability
-       
+
+  - title: "EDI"
+    dropdown:
+    section: 
+    url: EDI
+  
   - title: "Contact"
     dropdown:
     section: contact
