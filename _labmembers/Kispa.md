@@ -3,7 +3,7 @@ name: "Tera Kispa"
 role: "MSc Student"
 subtitle: "Science is an ongoing process of learning and exploration"
 lucat: 
-image: "assets/img/members/Kispa."
+image: "assets/img/members/Tera_image.png"
 social:
   - url: https://orcid.org/0000-0003-3772-2720
     icon: ai ai-orcid
