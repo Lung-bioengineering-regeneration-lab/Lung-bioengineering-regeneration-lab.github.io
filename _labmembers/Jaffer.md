@@ -3,7 +3,7 @@ name: "Simran Jaffer"
 role: "Masters Student"
 subtitle: "Generating Hydrogels for Regenerative Medicine Applications"
 lucat: 
-image: "assets/img/members/Simran_image.jpeg"
+image: "assets/img/members/Simran_image.jpg"
 social:
   - url: 
     icon: ai ai-orcid
