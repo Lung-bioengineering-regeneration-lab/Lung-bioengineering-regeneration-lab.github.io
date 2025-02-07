@@ -3,7 +3,7 @@ name: "Shahram Parvaneh"
 role: "PostDoc"
 subtitle: "In our project, we are optimizing biomaterial compositions for the bioengineering of 3D tissue models, organoids, and cancer models. We are developing microcarriers to enhance surface attachment in bioreactors, facilitating MSC culture for ATMPs and improving yields in cell and gene therapy processes."
 lucat: SH3445PA
-image: "assets/img/members/Parvaneh."
+image: "assets/img/members/Shahram_image.jpg"
 social:
   - url: https://orcid.org/0000-0001-9396-1449
     icon: ai ai-orcid
