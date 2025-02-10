@@ -17,4 +17,4 @@ info:
   - info_term: "Nationality"
     value: "Lebanese-Canadian"
 ---
-With a PhD in the motor control (the neuroscience of movement), I recently transitioned into my role as Program Manager for the Canada Excellence Research Chair (CERC) in Lung Regenerative Medicine (Darcy Wagner). My primary responsibility is to ensure that research projects align with our overarching goals, but I take particular pride in integrating equity, diversity, and inclusion (EDI) principles into every aspect of our work. By doing so, we strive to create a future where cutting-edge medical care is accessible to all.
+With a PhD in motor control (the neuroscience of movement), I recently transitioned into my role as Program Manager for the Canada Excellence Research Chair (CERC) in Lung Regenerative Medicine (Darcy Wagner). My primary responsibility is to ensure that research projects align with our overarching goals, but I take particular pride in integrating equity, diversity, and inclusion (EDI) principles into every aspect of our work. By doing so, we strive to create a future where cutting-edge medical care is accessible to all.
