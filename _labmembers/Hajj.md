@@ -1,6 +1,6 @@
 ---
 name: "Joëlle Hajj"
-role: "Program Manager for the CERC in LRM"
+role: "PhD, Program Manager"
 subtitle: "PhD in Motor Control "
 lucat: 
 image: "assets/img/members/Hajj_image PNG.png"
