@@ -28,5 +28,5 @@ The Lung Bioengineering and Regeneration (LBR) group at Lund University is commi
 5. Recycling and repurposing of equipment (including restoration of old scientific equipment)
 
 
-Check back soon for our protocols! Please be in touch if you want to collaborate on our sustainability work. Contact: darcy.wagner@med.lu.se or individual project leaders as seen on the main page.
+Check back soon for our protocols! Please be in touch if you want to collaborate on our sustainability work. Contact: darcy.wagner@mcgill.ca or individual project leaders as seen on the main page.
 
