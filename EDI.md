@@ -3,6 +3,6 @@ layout: page
 title: Our values 
 ---
 
-## EDI
+## Our values
 
 Coming Soon!
