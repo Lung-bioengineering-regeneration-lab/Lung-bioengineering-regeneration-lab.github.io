@@ -3,6 +3,6 @@ layout: page
 title: Our values 
 ---
 
-## Our values
+## ourvalues
 
 Coming Soon! 
