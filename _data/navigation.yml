@@ -28,10 +28,10 @@ nav:
     section: 
     url: sustainability
 
-  - title: "EDI"
+  - title: "Our values"
     dropdown:
     section: 
-    url: EDI
+    url: our values
   
   - title: "Contact"
     dropdown:
