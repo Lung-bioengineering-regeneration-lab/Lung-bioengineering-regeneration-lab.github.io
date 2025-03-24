@@ -1,6 +1,6 @@
 ---
 name: "Darcy Wagner"
-role: "Associate Professor, Wallenberg Molecular Medicine Fellow"
+role: "Professor, Canada Excellence Research Chair in Lung Regenerative Medicine"
 subtitle: "I am interested in generating lung tissue in the lab to study disease, develop new therapies and one day to be able to manufacture lung tissue in the lab for transplantation."
 pubmed: "Darcy Wagner OR Darcy E Wagner"
 lucat: "da6033wa"
