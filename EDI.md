@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EDI
+title: Our values
 ---
 
 ## EDI
