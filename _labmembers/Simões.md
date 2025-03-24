@@ -3,7 +3,7 @@ name: "Leonor Simões"
 role: "PhD Student "
 subtitle: "Microscopy unveils the hidden architecture of the microscopic world, turning the invisible into a universe of breathtaking detail."
 lucat: 
-image: "assets/img/members/Simões."
+image: "assets/img/members/Leo_image.jpeg.jpeg"
 social:
   - url: 
     icon: ai ai-orcid
