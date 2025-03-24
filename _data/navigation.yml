@@ -30,8 +30,8 @@ nav:
 
   - title: "Our values"
     dropdown:
-    section: 
-    url: our values
+    section: ourvalues
+    url: 
   
   - title: "Contact"
     dropdown:
