@@ -3,7 +3,7 @@ name: "Irakli Nebieridze"
 role: "Guest Researcher"
 subtitle: "BSc Medicinal Chemistry and Chemical Biology"
 lucat: ir3830ne
-image: "assets/img/members/Irakli_image.jpg"
+image: "assets/img/members/Irakli_image"
 social:
   - url: 
     icon: ai ai-orcid
