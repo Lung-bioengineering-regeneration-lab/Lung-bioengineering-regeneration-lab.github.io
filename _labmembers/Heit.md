@@ -3,7 +3,7 @@ name: "Zac Heit"
 role: "Summer Intern"
 subtitle: ""
 lucat: 
-image: "assets/img/members/Zac_image.jpg"
+image: "assets/img/members/Zac_image.png"
 social:
   - url: 
     icon: ai ai-orcid
