@@ -1,6 +1,6 @@
 ---
 name: "Indra Putra Wendi"
-role: "MSc Student"
+role: "PhD Student"
 subtitle: "Biomedical scientist-to-be with a clinical backbone"
 lucat: in3272we-s@lu.se
 image: "assets/img/members/Wendi.jpeg"
