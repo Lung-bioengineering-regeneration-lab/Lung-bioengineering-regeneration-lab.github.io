@@ -3,7 +3,7 @@ name: "Gaëtan Roudier"
 role: "Postdoctoral Fellow"
 subtitle: "Willing to tackle global health issues through research and innovation in regenerative medicine."
 lucat: 
-image: "assets/img/members/Roudier."
+image: "assets/img/members/Roudier_image.jpg"
 social:
   - url: https://orcid.org/0000-0003-1082-8787
     icon: ai ai-orcid
