@@ -1,6 +1,6 @@
 ---
 name: "Nika Gvazava"
-role: "Research Engineer"
+role: "PhD student"
 subtitle: ""
 pubmed: "Terms used for Pubmed search"
 image: "assets/img/members/gvazava.jpg"
