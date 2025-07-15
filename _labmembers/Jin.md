@@ -3,7 +3,7 @@ name: "Matthew Jin"
 role: "Intern"
 subtitle: ""
 lucat: 
-image: "assets/img/members/Jin."
+image: "assets/img/members/Jin_image.jpg"
 social:
   - url: 
     icon: ai ai-orcid
