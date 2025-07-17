@@ -3,7 +3,7 @@ name: "Sondos Odeh"
 role: "Intern Guest Researcher "
 subtitle: "Research in Tissue Bioengineering "
 lucat: 
-image: "assets/img/members/Odeh."
+image: "assets/img/members/Odeh_image.JPG"
 social:
   - url: 
     icon: ai ai-orcid
