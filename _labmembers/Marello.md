@@ -3,7 +3,7 @@ name: "Letizia Marello"
 role: "Undergraduate Bioengineering Student"
 subtitle: ""
 lucat: 
-image: "assets/img/members/Marello."
+image: "assets/img/members/Marello_image.jpeg"
 social:
   - url: 
     icon: ai ai-orcid
