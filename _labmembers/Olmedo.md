@@ -3,7 +3,7 @@ name: "Alfredo Moreno Olmedo"
 role: "PhD student "
 subtitle: ""
 lucat: 
-image: "assets/img/members/Olmedo."
+image: "assets/img/members/Olmedo.jpg"
 social:
   - url: https://orcid.org/0000-0002-1187-928X
     icon: ai ai-orcid
