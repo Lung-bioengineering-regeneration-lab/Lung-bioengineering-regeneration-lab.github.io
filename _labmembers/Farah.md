@@ -2,7 +2,7 @@
 name: "Milana Farah"
 role: "Undergraduate Bioengineering Student"
 subtitle: ""
-image: "assets/img/members/Farah."
+image: "assets/img/members/Milana.png"
 social:
   - url: 
     icon: ai ai-orcid
