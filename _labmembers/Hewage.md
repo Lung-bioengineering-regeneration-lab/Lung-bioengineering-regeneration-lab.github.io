@@ -2,7 +2,7 @@
 name: "Osandi Pallemulla Hewage"
 role: "Undergraduate Bioengineering Student"
 subtitle: ""
-image: "assets/img/members/Hewage."
+image: "assets/img/members/Osandi.jpg"
 social:
   - url: 
     icon: ai ai-orcid
