@@ -2,7 +2,7 @@
 name: "Nicholas Vonniessen"
 role: "Postdoctoral fellow"
 subtitle: ""
-image: "assets/img/members/Vonniessen."
+image: "assets/img/members/Nicholas.jpg"
 social:
   - url: https://orcid.org/0009-0004-1054-4527
     icon: ai ai-orcid
