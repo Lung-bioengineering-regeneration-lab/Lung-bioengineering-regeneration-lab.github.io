@@ -2,7 +2,7 @@
 name: "Tiago Maffacioli"
 role: "MSc Student"
 subtitle: "Advancing Regenerative Medicine through clinical translation and GMP excellence."
-image: "assets/img/members/Maffacioli."
+image: "assets/img/members/Tiago.PNG"
 social:
   - url: 
     icon: ai ai-orcid
