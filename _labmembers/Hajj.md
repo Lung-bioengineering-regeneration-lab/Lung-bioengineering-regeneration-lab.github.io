@@ -9,7 +9,7 @@ social:
     icon: ai ai-orcid
   - url: 
     icon: fab fa-twitter
-  - url: www.linkedin.com/in/joëlle-hajj-phd-6baa06302
+  - url: https://www.linkedin.com/in/joellehajj1234/
     icon: fab fa-linkedin-in
   - url: 
     icon: fas fa-user-circle
