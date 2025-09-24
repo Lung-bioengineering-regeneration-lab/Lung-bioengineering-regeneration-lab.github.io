@@ -8,7 +8,7 @@ social:
     icon: ai ai-orcid
   - url: 
     icon: fab fa-twitter
-  - url: www.linkedin.com/in/milanafarah
+  - url: http://linkedin.com/in/milanafarah
     icon: fab fa-linkedin-in
   - url: 
     icon: fas fa-user-circle
