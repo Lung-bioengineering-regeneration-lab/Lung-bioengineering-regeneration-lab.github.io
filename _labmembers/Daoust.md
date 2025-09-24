@@ -2,7 +2,7 @@
 name: "Laurianne Daoust"
 role: "Volunteer/ Capstone student"
 subtitle: "Bioengineering student at McGill University"
-image: "assets/img/members/Daoust."
+image: "assets/img/members/Laurianne.JPEG"
 social:
   - url: 
     icon: ai ai-orcid
