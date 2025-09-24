@@ -2,7 +2,7 @@
 name: "Julianna Bede"
 role: "BEng student"
 subtitle: "Bioengineering Undergraduate Student"
-image: "assets/img/members/Bede."
+image: "assets/img/members/Bede.JPG"
 social:
   - url: 
     icon: ai ai-orcid
