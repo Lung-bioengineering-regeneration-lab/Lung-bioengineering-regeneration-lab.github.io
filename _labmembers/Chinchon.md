@@ -2,7 +2,7 @@
 name: "Berta Alcolea Chinchon"
 role: "Undergraduate Bioengineering Student"
 subtitle: "Bioengineering student"
-image: "assets/img/members/Chinchon."
+image: "assets/img/members/Berta.jpeg"
 social:
   - url: 
     icon: ai ai-orcid
