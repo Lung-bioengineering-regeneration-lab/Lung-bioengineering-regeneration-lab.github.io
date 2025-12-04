@@ -1,6 +1,6 @@
 ---
 name: "Shahram Parvaneh"
-role: "PostDoc"
+role: "Postdoctoral Fellow"
 subtitle: "Shahram completed his PhD in Immunology at the Department of Dermatology and allergology of Szeged University, Hungary. His doctoral research focused on cancer biology, investigating the effects of bile acids on pancreatic cancer tumorigenesis and developing a 3D bioprinted tumor model to study the role of adipose-derived mesenchymal stem cells (ADMSCs) in tumor microenvironment–driven chemoresistance. He integrated transcriptomic and proteomic approaches to uncover the molecular mechanisms underlying therapy resistance and tumor–stroma interactions. 
 
 Before his PhD, Shahram earned a BSc in Clinical Laboratory Sciences and an MSc in Medical Immunology. He has broad experience in protein purification, immunochemistry, bioconjugation, biomaterial-based tissue engineering, and stem cell biology across both academic and industrial settings. 
