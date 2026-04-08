@@ -2,7 +2,7 @@
 name: "Benedetta Zampa"
 role: "Intern "
 subtitle: ""
-image: "assets/img/members/Zampa."
+image: "assets/img/members/Benedetta.jpeg"
 social:
   - url: 
     icon: ai ai-orcid
