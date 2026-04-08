@@ -2,7 +2,7 @@
 name: "Guillermo Pascual Hellmann"
 role: "Undergraduate Bioinformatician"
 subtitle: ""
-image: "assets/img/members/Guillermo.jpg."
+image: "assets/img/members/Guillermo.jpg"
 social:
   - url: 
     icon: ai ai-orcid
