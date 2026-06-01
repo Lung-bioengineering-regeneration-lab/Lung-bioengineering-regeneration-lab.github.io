@@ -1,6 +1,6 @@
 ---
 name: "Shahram Parvaneh"
-role: "Postdoctoral Fellow"
+role: "PhD, Postdoctoral Fellow"
 subtitle: ""
 lucat: SH3445PA
 image: "assets/img/members/Parvaneh.png"
